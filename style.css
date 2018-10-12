@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding:0;
+    }
+    .main{
+    background-color:black;
+    height:100vh;
+    position:absolute;
+    z-index: -1;
+}
+.main p{
+    position: absolute;
+    width: 200px;
+    font-family: 'Courier New', Courier, monospace, serif;
+    border-bottom: 1px solid black;
+    margin: 630px 0 0 0;
+}
